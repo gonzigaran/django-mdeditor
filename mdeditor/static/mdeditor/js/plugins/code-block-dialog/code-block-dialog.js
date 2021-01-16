@@ -35,6 +35,7 @@
 			java          : ["Java", "clike"],
 			json          : ["JSON", "text/json"],
 			javascript    : ["Javascript", "javascript"],
+			kotlin        : ["Kotlin", "kotlin"],
 			lua           : ["Lua", "lua"],
 			less          : ["LESS", "css"],
 			markdown      : ["Markdown", "gfm"],
